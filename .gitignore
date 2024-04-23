@@ -5,7 +5,7 @@
 __pycache__
 media/
 venv/
-db.sqlite3/
+db.sqlite3
 photos/
 # Backup files #
 *.bak
